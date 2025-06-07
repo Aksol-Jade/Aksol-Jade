@@ -1,12 +1,7 @@
----
-
-````markdown
 # Axle Jade Casia
 
-> *Engineering insight meets data-driven reasoning.*  
-> *Exploring real-world impact through code, research, and machine learning.*
-
----
+> Engineering insight meets data-driven reasoning.  
+> Exploring real-world impact through code, research, and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/axle-jade-casia-221100302/)  
 [![DataCamp](https://img.shields.io/badge/Certification-DataCamp_Associate_Data_Engineer-success?logo=datacamp)](https://www.datacamp.com/certificate/DEA0012404488857)  
@@ -14,112 +9,94 @@
 
 ---
 
-## 👨‍💻 About Me
+## 1. ABOUT ME
 
-I'm a fourth-year Electronics Engineering student passionate about applying machine learning and data analysis across diverse domains like healthcare, education, and cybersecurity. Currently pursuing the Data Engineering track on DataCamp while expanding my full-stack skills with React, Rust, and Node.js.
-
----
-
-## 🧠 Skills Snapshot
-
-```text
-Languages      : Python, MATLAB, JavaScript (React, Node.js), Rust (learning)
-ML Tools       : scikit-learn, pandas, seaborn, matplotlib, numpy
-Data Workflow  : SQL, DataFrames, Pipelines, GridSearchCV, Feature Scaling
-Development    : Git, GitHub, Jupyter Notebooks, VS Code
-In Progress    : React.js | Rust | Node.js | DataCamp Data Engineering Track
-````
+I'm a fourth-year Electronics Engineering student with a growing portfolio in machine learning, data science, and applied AI. I’m currently pursuing the Data Engineering track on DataCamp and building web and systems-level fluency through React, Rust, and Node.js. My work reflects an engineering-first mindset backed by reproducible, interpretable code.
 
 ---
 
-## 📁 Project Portfolio
+## 2. SKILLS SNAPSHOT
+
+- **Languages**: Python, MATLAB, JavaScript (React, Node.js), Rust (learning)  
+- **ML Libraries**: scikit-learn, pandas, seaborn, matplotlib, numpy  
+- **Data Engineering**: SQL, data cleaning, pipeline modeling, feature scaling  
+- **Development Tools**: Git, GitHub, Jupyter Notebooks, VS Code  
+- **Currently Learning**: React.js, Rust, Node.js, DataCamp’s Data Engineering Track  
+
+---
+
+## 3. PROJECT PORTFOLIO
 
 <details>
-<summary><strong>▶ Exploratory Streaming Analysis</strong></summary>
+<summary><strong>Exploratory Data Analysis Practice</strong></summary>
 
-**Repository**: [EDA-Sample](https://github.com/Aksol-Jade/EDA-Sample)
-Analyzed artist popularity and trends using stream counts and audio features. Explored outliers and temporal release patterns through extensive EDA.
-
+**Repo**: [EDA-Practice_Project](https://github.com/Aksol-Jade/EDA-Practice_Project)  
+*Practiced statistical summaries, null handling, and visual exploration techniques.*
 </details>
 
 <details>
-<summary><strong>▶ Ridge Regression on Song Streams</strong></summary>
+<summary><strong>Linear Regression Practice</strong></summary>
 
-**Repository**: [casia\_fernandez\_m3\_linear\_regression](https://github.com/Aksol-Jade/casia_fernandez_m3_linear_regression)
-Trained and evaluated a Ridge regression model to predict stream counts. Included residual diagnostics and feature scaling.
-
+**Repo**: [Linear_Regression_Practice_Project](https://github.com/Aksol-Jade/Linear_Regression_Practice_Project)  
+*Applied linear regression using Scikit-learn with evaluation metrics like MSE and R².*
 </details>
 
 <details>
-<summary><strong>▶ Tumor Classification via Logistic Regression</strong></summary>
+<summary><strong>Classification & Regression Practice</strong></summary>
 
-**Repository**: [CASIA\_Programming\_Assignment3](https://github.com/Aksol-Jade/CASIA_Programming_Assignment3)
-Built a logistic regression classifier for tumor diagnosis. Applied standard scaling, evaluated model with ROC curves and confusion matrix.
-
+**Repo**: [Classification_Regression_Practice_Project](https://github.com/Aksol-Jade/Classification_Regression_Practice_Project)  
+*Built classification and regression pipelines; explored decision boundaries and learning curves.*
 </details>
 
 <details>
-<summary><strong>▶ Support Vector Machine Implementation</strong></summary>
+<summary><strong>Hyperparameter Tuning Practice</strong></summary>
 
-**Repository**: [CASIA\_ProgrammingAssignment4](https://github.com/Aksol-Jade/CASIA_ProgrammingAssignment4)
-Trained an SVM with hyperparameter tuning for diagnosis prediction. Included kernel comparison and feature ranking.
-
+**Repo**: [Hyperparameter_Tuning_Practice_Project](https://github.com/Aksol-Jade/Hyperparameter_Tuning_Practice_Project)  
+*Used GridSearchCV to tune supervised learning models; visualized accuracy trends.*
 </details>
 
 <details>
-<summary><strong>▶ Random Forest for Cyberattack Detection</strong></summary>
+<summary><strong>Cybersecurity Attack Classification</strong></summary>
 
-**Repository**: [CASIA\_ProgrammingAssigntment5](https://github.com/Aksol-Jade/CASIA_ProgrammingAssigntment5)
-Applied mean imputation and categorical encoding. Trained a Random Forest model with performance metrics and feature importance.
-
+**Repo**: [Cybersecurity_Attack_Classification_Practice_Project](https://github.com/Aksol-Jade/Cybersecurity_Attack_Classification_Practice_Project)  
+*Built a Random Forest model to classify network traffic using domain-specific feature engineering.*
 </details>
 
 <details>
-<summary><strong>▶ Capstone: Student Lifestyle and Academic Performance</strong></summary>
+<summary><strong>Student Lifestyle vs Academic Performance</strong></summary>
 
-**Repository**: [CASIA\_CapstoneProject\_EmergingTechnologies](https://github.com/Aksol-Jade/CASIA_CapstoneProject_EmergingTechnologies)
-Analyzed the relationship between sleep, screen time, and performance using regression and classification models.
-
+**Repo**: [Student_LifeStyleHabitsXAcademicPerformance](https://github.com/Aksol-Jade/Student_LifeStyleHabitsXAcademicPerformance)  
+*Capstone project predicting academic success from behavioral data such as sleep, screen time, and habits.*
 </details>
 
 <details>
-<summary><strong>▶ Therapod Conversational Bot</strong></summary>
+<summary><strong>Help Therapod Remember (Conversational AI Game)</strong></summary>
 
-**Repository**: [Therapod\_ConversationalBot](https://github.com/Aksol-Jade/Therapod_ConversationalBot)
-Developed a voice-to-voice therapeutic chatbot integrating speech recognition and synthesis. Utilized emotion detection and NLP to facilitate meaningful conversations.
-
-</details>
-
-<details>
-<summary><strong>▶ Therapod ASR and TTS Program</strong></summary>
-
-**Repository**: [THERAPOD\_ASR-TTS](https://github.com/Aksol-Jade/THERAPOD_ASR-TTS)
-Implemented Automatic Speech Recognition and Text-to-Speech functionalities for the Therapod project, enhancing interactive capabilities.
-
+**Repo**: [Help-Therapod-Remember-](https://github.com/Aksol-Jade/Help-Therapod-Remember-)  
+*A retro-style guessing game built with conversational AI logic and animated interface.*
 </details>
 
 ---
 
-## 🧭 Interests & Goals
+## 4. ACADEMIC INTERESTS
 
-* Voice interaction and speech-driven AI agents
-* Data pipelines, orchestration, and cloud analytics
-* Applying ML in education, mental health, and accessibility
-* Continuing with React + Rust + Node.js to build interactive, intelligent apps
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksol-Jade\&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aksol-Jade\&show_icons=true\&count_private=true\&theme=default)
+- Human-AI interaction, conversational agents, and speech interfaces  
+- Education technology, student modeling, and behavior analytics  
+- ML fairness, interpretability, and low-resource applications  
+- Systems design using embedded AI or edge inference  
 
 ---
 
-## 🤝 Let's Collaborate
+## 5. GITHUB STATS
 
-I’m open to project collaborations, research partnerships, or freelance work involving machine learning, data analytics, or full-stack experimentation.
-Feel free to connect via LinkedIn or explore the pinned projects on this profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksol-Jade&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aksol-Jade&show_icons=true&count_private=true&theme=default)
 
 ---
 
+## 6. LET'S COLLABORATE
+
+I'm open to research collaborations, freelance ML projects, or experimental app development.  
+Whether you're working in education, voice tech, or analytics, feel free to connect!
+
+---
