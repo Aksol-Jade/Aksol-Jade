@@ -1,10 +1,3 @@
-Absolutely! Based on your updated GitHub profile and recent changes, here's a refreshed and professional `README.md` tailored for your profile. This version includes:
-
-* **Updated repository links** reflecting your current projects
-* **Badges** for certifications and skills
-* **Collapsible sections** for better organization
-* **GitHub Stats** to showcase your activity
-
 ---
 
 ````markdown
