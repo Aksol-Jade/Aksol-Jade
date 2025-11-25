@@ -11,7 +11,7 @@
 
 ## 1. ABOUT ME
 
-I'm a fourth-year Electronics Engineering student with a growing portfolio in machine learning, data science, and applied AI. I’m currently pursuing the Data Engineering track on DataCamp and building web and systems-level fluency through React, Rust, and Node.js. My work reflects an engineering-first mindset backed by reproducible, interpretable code.
+I'm an Electronics Engineer Graduate, turned software engineer with a growing portfolio in machine learning, data science, and applied AI. I’m currently pursuing the Data Engineering track on DataCamp and building web and systems-level fluency through React, Rust, and Node.js. My work reflects an engineering-first mindset backed by reproducible, interpretable code.
 
 ---
 
